@@ -1,4 +1,4 @@
-```markdown
+
 # Placement Service Application
 
 This is a Spring Boot application that provides a RESTful API for managing placement information.  It uses PostgreSQL as the database and can be integrated with a frontend framework like AngularJS.
@@ -127,4 +127,4 @@ CREATE TABLE placement (
 
 
  Remember to replace the placeholder values with your actual database and user credentials.
-```
+
